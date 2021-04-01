@@ -1,11 +1,9 @@
-# ClickBot script by [Ziziworks](https://www.youtube.com/channel/UCW36UNroi3B4Ix9ln1e6rUQ?sub_confirmation=1)
+# ClickBot script by [KayJuno]()
 
-[Youtube](https://www.youtube.com/channel/UCW36UNroi3B4Ix9ln1e6rUQ?sub_confirmation=1) |
-[Instagram](https://www.instagram.com/ziziworks/) |
-[Facebook](https://www.facebook.com/ziziworks/) |
-[Telegram Channel](https://t.me/ziziworks) |
-[Telegram Group](https://t.me/ziziworksgroup) |
-[Twitter](https://twitter.com/ziziworks_MY)  
+[Facebook]() |
+[Telegram Channel]() |
+[Telegram Group]() |
+[Twitter]()  
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)    [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
@@ -27,7 +25,7 @@ ClickBot is a bot was made by [DOGE Click](https://dogeclick.com/) , a pay to cl
 - [ ] Earn multiple cryptocurrency simultaneously
 ## Download
 Script is where the magic begins. Go ahead and download it now.    
-If you don't download the script yet get it now by clicking [/releases](https://github.com/ziziwho/clickbot/releases)
+If you don't download the script yet get it now by clicking [/releases]()
 ## Intallation
 ### For Windows
 
@@ -35,7 +33,7 @@ Read text tutorial at [/Installation/Windows](/Installation/Windows/Install_wind
 
 Watch video tutorial :    
 
-[![Window Installation Video](https://img.youtube.com/vi/-lmO-_W8-Jw/0.jpg)](https://www.youtube.com/watch?v=-lmO-_W8-Jw)    
+[![Window Installation Video](https://img.youtube.com/vi/-lmO-_W8-Jw/0.jpg)]()    
 
 ### For Android
 
@@ -43,7 +41,7 @@ Read text tutorial at [/Installation/Android](/Installation/Android/Install_andr
 
 Watch video tutorial :    
 
-[![Android Installation Video](https://img.youtube.com/vi/9z4meV0BMMQ/0.jpg)](https://www.youtube.com/watch?v=9z4meV0BMMQ)    
+[![Android Installation Video](https://img.youtube.com/vi/9z4meV0BMMQ/0.jpg)]()    
 
 ##### Usage: 
 > python main.py phone_number [optional for notes]    
@@ -63,7 +61,7 @@ Open your windows command prompt or termux terminal. Type the following command:
 ⚠️ Attention! Make sure you enter your phone number which linked with telegram.
 ## Bugs and Issues
 
-Have a bug or an issue with this script? [Open a new issue](https://github.com/ziziwho/clickbot/issues/new) here on GitHub or leave a message on my [telegram](http://t.me/ziziwho).
+Have a bug or an issue with this script? [Open a new issue]) here on GitHub or leave a message on my [telegram]().
 
 
 ---
