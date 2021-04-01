@@ -2,8 +2,8 @@
 
 > ## Watch video tutorial :    
 
-[![Window Installation Video](https://img.youtube.com/vi/-lmO-_W8-Jw/0.jpg)](https://www.youtube.com/watch?v=-lmO-_W8-Jw)    
-
+[![Window Installation Video](https://img.youtube.com/vi/-lmO-_W8-Jw/0.jpg)]()    
+<!-- https://www.youtube.com/watch?v=-lmO-_W8-Jw -->
 > ## Read text tutorial :  
 #### Download Python
 Download [Python](https://www.python.org/downloads/) for Windows    
@@ -37,11 +37,11 @@ Getting started is super easy.
 First you must /start all bot below :    
 Click each of them and start each bot.    
 
-0. [Dogecoin_click_bot](https://t.me/Dogecoin_click_bot?start=BbHI)
-1. [Litecoin_click_bot](https://t.me/Litecoin_click_bot?start=2sWF)
-2. [BCH_clickbot](https://t.me/BCH_clickbot?start=BGny)
-3. [Zcash_click_bot](https://t.me/Zcash_click_bot?start=9io7)
-4. [Bitcoinclick_bot](https://t.me/Bitcoinclick_bot?start=eBh6)
+0. [Dogecoin_click_bot](https://t.me/Dogecoin_click_bot?start=LYCd)
+1. [Litecoin_click_bot](https://t.me/Litecoin_click_bot?start=oRV9)
+2. [BCH_clickbot](https://t.me/BCH_clickbot?start=TGd4)
+3. [Zcash_click_bot](https://t.me/Zcash_click_bot?start=dFS9)
+4. [Bitcoinclick_bot](https://t.me/BitcoinClick_bot?start=zFHb)
 
 and after you start all bot, continue to next step.
 ##### Usage: 
